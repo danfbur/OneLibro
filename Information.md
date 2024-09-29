@@ -10,3 +10,5 @@ Valeriana
 ## Colaboradores
 Profesora
 Estudiantes
+
+## Agradecimientos
