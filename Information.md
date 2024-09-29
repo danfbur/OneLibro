@@ -6,3 +6,7 @@ Nuestro objetivo es aplicar los patrones de diseño: creacionales, estructurales
 Carola
 Brayana
 Valeriana
+
+## Colaboradores
+Profesora
+Estudiantes
